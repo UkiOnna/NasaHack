@@ -1,0 +1,17 @@
+﻿<Window x:Class="NasaHacked.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NasaHacked"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="700">
+    <Grid>
+        <DatePicker Name="date" HorizontalAlignment="Left" Margin="10,27,0,0" VerticalAlignment="Top" SelectedDateChanged="DateChange"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="10,257,0,0" VerticalAlignment="Top" Width="100" Click="DownloadImageClick"/>
+        <ProgressBar Name="progress" HorizontalAlignment="Left" Height="24" Margin="215,164,0,0" VerticalAlignment="Top" Width="357"/>
+        <Image Name="imag" HorizontalAlignment="Left" Height="189" Margin="215,15,0,0" VerticalAlignment="Top" Width="467"/>
+        <TextBlock Name="textBlockDisc" HorizontalAlignment="Left" Margin="204,209,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="207" Width="478" FontFamily="Segoe UI Light"/>
+
+    </Grid>
+</Window>

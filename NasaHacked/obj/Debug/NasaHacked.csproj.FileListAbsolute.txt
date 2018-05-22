@@ -1,0 +1,16 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\NasaHacked\NasaHacked\bin\Debug\NasaHacked.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\NasaHacked\NasaHacked\bin\Debug\NasaHacked.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\NasaHacked\NasaHacked\bin\Debug\NasaHacked.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\NasaHacked\NasaHacked\bin\Debug\Newtonsoft.Json.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\NasaHacked\NasaHacked\bin\Debug\Newtonsoft.Json.xml
+c:\users\сикировт\documents\visual studio 2017\Projects\NasaHacked\NasaHacked\obj\Debug\NasaHacked.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\NasaHacked\NasaHacked\obj\Debug\MainWindow.g.cs
+c:\users\сикировт\documents\visual studio 2017\Projects\NasaHacked\NasaHacked\obj\Debug\App.g.cs
+c:\users\сикировт\documents\visual studio 2017\Projects\NasaHacked\NasaHacked\obj\Debug\NasaHacked_MarkupCompile.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\NasaHacked\NasaHacked\obj\Debug\NasaHacked_MarkupCompile.lref
+c:\users\сикировт\documents\visual studio 2017\Projects\NasaHacked\NasaHacked\obj\Debug\MainWindow.baml
+c:\users\сикировт\documents\visual studio 2017\Projects\NasaHacked\NasaHacked\obj\Debug\NasaHacked.g.resources
+c:\users\сикировт\documents\visual studio 2017\Projects\NasaHacked\NasaHacked\obj\Debug\NasaHacked.Properties.Resources.resources
+c:\users\сикировт\documents\visual studio 2017\Projects\NasaHacked\NasaHacked\obj\Debug\NasaHacked.csproj.GenerateResource.Cache
+c:\users\сикировт\documents\visual studio 2017\Projects\NasaHacked\NasaHacked\obj\Debug\NasaHacked.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\NasaHacked\NasaHacked\obj\Debug\NasaHacked.pdb
